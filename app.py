@@ -45,7 +45,7 @@ st.title("💬 Pametni klepetalnik")
 # ----------------------------
 # 3) Specializacija (OBVEZNO)
 # ----------------------------
-PODROCJE = "recepti in kuhanje"  # <-- TU zamenjaj s temo svoje strani
+PODROCJE = "Ljubljana"  # <-- TU zamenjaj s temo svoje strani
 MEJE = (
     "Odgovarjaj samo na vprašanja, ki so neposredno povezana s področjem: "
     f"'{PODROCJE}'. Če uporabnik vpraša karkoli izven tega področja, "

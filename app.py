@@ -20,16 +20,16 @@ st.markdown("""
 .stApp {
     background-color: #f2f2f2; 
 }
-
+            
+h1 {
+    color: #000000 !important;            
+}
+            
 /* naslov */
 h2, h3, p, li, label {
     color: #ffffff !important;
 }
             
-h1 {
-    color: #000000;            
-}
-
 /* input */
 [data-testid="stChatInput"] textarea {
     background-color: #111827 !important;

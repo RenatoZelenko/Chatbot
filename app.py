@@ -27,7 +27,7 @@ h2, h3, p, li, label {
 }
             
 h1 {
-    color: #000000            
+    color: #000000;            
 }
 
 /* input */

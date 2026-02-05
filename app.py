@@ -28,8 +28,8 @@ h1, h2, h3, p, li, label {
 
 /* input */
 [data-testid="stChatInput"] textarea {
-    background-color: #006eff !important;
-    color: #006eff !important;
+    background-color: #111827 !important;
+    color: #e2e8f0 !important;
     border: 1px solid #334155 !important;
 }
 

@@ -1,7 +1,7 @@
 [theme]
 base="light"
 primaryColor="#006eff"
-backgroundColor="#8e8e8e"
-secondaryBackgroundColor="#000000"
+backgroundColor="#2b00ff"
+secondaryBackgroundColor="#2b00ff"
 textColor="#ffffff"
 font="sans serif"

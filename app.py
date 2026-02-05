@@ -35,7 +35,7 @@ h1, h2, h3, p, li, label {
 
 /* chat mehurčki */
 [data-testid="stChatMessage"] {
-    background: transparent;
+    background-color: #257094;
 }
 </style>
 """, unsafe_allow_html=True)

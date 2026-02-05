@@ -23,7 +23,7 @@ st.markdown("""
 
 /* naslov */
 h1, h2, h3, p, li, label {
-    color: #00000f !important;
+    color: #ffffff !important;
 }
 
 /* input */

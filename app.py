@@ -18,7 +18,7 @@ st.markdown("""
 <style>
 /* ozadje */
 .stApp {
-    background-color: #9c9c9c; 
+    background-color: #f2f2f2; 
 }
 
 /* naslov */
